@@ -10,6 +10,7 @@ namespace LockOperation_Caputo
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
